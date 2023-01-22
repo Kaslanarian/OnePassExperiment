@@ -1,0 +1,156 @@
+   dataset      lr       decay    bias     std      mean     std
+  australian    2.0      False    True     False    0.568   0.041
+  australian    1.0      False    True     False    0.568   0.041
+  australian    0.5      False    True     False    0.568   0.041
+  australian    0.1      False    True     False    0.568   0.041
+  australian    0.01     False    True     False    0.568   0.041
+    diabetes    2.0      False    True     False    0.624   0.084
+    diabetes    1.0      False    True     False    0.600   0.083
+    diabetes    0.5      False    True     False    0.596   0.083
+    diabetes    0.1      False    True     False    0.595   0.120
+    diabetes    0.01     False    True     False    0.492   0.145
+      splice    2.0      False    True     False    0.754   0.031
+      splice    1.0      False    True     False    0.747   0.018
+      splice    0.5      False    True     False    0.737   0.026
+      splice    0.1      False    True     False    0.741   0.041
+      splice    0.01     False    True     False    0.776   0.017
+   svmguide3    2.0      False    True     False    0.785   0.031
+   svmguide3    1.0      False    True     False    0.793   0.031
+   svmguide3    0.5      False    True     False    0.808   0.022
+   svmguide3    0.1      False    True     False    0.656   0.033
+   svmguide3    0.01     False    True     False    0.583   0.035
+        iris    2.0      False    True     False    0.653   0.134
+        iris    1.0      False    True     False    0.653   0.129
+        iris    0.5      False    True     False    0.693   0.074
+        iris    0.1      False    True     False    0.787   0.078
+        iris    0.01     False    True     False    0.793   0.077
+breast_cancer   2.0      False    True     False    0.668   0.043
+breast_cancer   1.0      False    True     False    0.668   0.043
+breast_cancer   0.5      False    True     False    0.668   0.043
+breast_cancer   0.1      False    True     False    0.666   0.043
+breast_cancer   0.01     False    True     False    0.668   0.043
+        wine    2.0      False    True     False    0.438   0.153
+        wine    1.0      False    True     False    0.438   0.153
+        wine    0.5      False    True     False    0.438   0.153
+        wine    0.1      False    True     False    0.422   0.162
+        wine    0.01     False    True     False    0.349   0.071
+      digits    2.0      False    True     False    0.899   0.018
+      digits    1.0      False    True     False    0.893   0.014
+      digits    0.5      False    True     False    0.905   0.015
+      digits    0.1      False    True     False    0.903   0.028
+      digits    0.01     False    True     False    0.915   0.021
+       mnist    2.0      False    True     False    0.629   0.032
+       mnist    1.0      False    True     False    0.629   0.032
+       mnist    0.5      False    True     False    0.629   0.032
+       mnist    0.1      False    True     False    0.629   0.032
+       mnist    0.01     False    True     False    0.595   0.038
+     fashion    2.0      False    True     False    0.614   0.022
+     fashion    1.0      False    True     False    0.614   0.022
+     fashion    0.5      False    True     False    0.614   0.022
+     fashion    0.1      False    True     False    0.626   0.021
+     fashion    0.01     False    True     False    0.641   0.039
+
+  australian    2.0      False    True     True     0.712   0.105
+  australian    1.0      False    True     True     0.697   0.105
+  australian    0.5      False    True     True     0.713   0.079
+  australian    0.1      False    True     True     0.768   0.116
+  australian    0.01     False    True     True     0.854   0.015
+    diabetes    2.0      False    True     True     0.638   0.141
+    diabetes    1.0      False    True     True     0.622   0.135
+    diabetes    0.5      False    True     True     0.643   0.108
+    diabetes    0.1      False    True     True     0.741   0.047
+    diabetes    0.01     False    True     True     0.736   0.023
+      splice    2.0      False    True     True     0.724   0.034
+      splice    1.0      False    True     True     0.734   0.033
+      splice    0.5      False    True     True     0.737   0.022
+      splice    0.1      False    True     True     0.734   0.019
+      splice    0.01     False    True     True     0.800   0.015
+   svmguide3    2.0      False    True     True     0.780   0.033
+   svmguide3    1.0      False    True     True     0.672   0.193
+   svmguide3    0.5      False    True     True     0.765   0.025
+   svmguide3    0.1      False    True     True     0.784   0.035
+   svmguide3    0.01     False    True     True     0.748   0.056
+        iris    2.0      False    True     True     0.620   0.138
+        iris    1.0      False    True     True     0.680   0.058
+        iris    0.5      False    True     True     0.813   0.054
+        iris    0.1      False    True     True     0.880   0.040
+        iris    0.01     False    True     True     0.827   0.068
+breast_cancer    2.0      False    True     True     0.822   0.099
+breast_cancer    1.0      False    True     True     0.838   0.100
+breast_cancer    0.5      False    True     True     0.834   0.106
+breast_cancer    0.1      False    True     True     0.838   0.095
+breast_cancer    0.01     False    True     True     0.896   0.069
+        wine    2.0      False    True     True     0.921   0.064
+        wine    1.0      False    True     True     0.938   0.049
+        wine    0.5      False    True     True     0.955   0.039
+        wine    0.1      False    True     True     0.972   0.025
+        wine    0.01     False    True     True     0.938   0.033
+      digits    2.0      False    True     True     0.584   0.081
+      digits    1.0      False    True     True     0.589   0.069
+      digits    0.5      False    True     True     0.602   0.065
+      digits    0.1      False    True     True     0.687   0.149
+      digits    0.01     False    True     True     0.863   0.057
+       mnist    2.0      False    True     True     0.196   0.053
+       mnist    1.0      False    True     True     0.174   0.049
+       mnist    0.5      False    True     True     0.159   0.027
+       mnist    0.1      False    True     True     0.175   0.066
+       mnist    0.01     False    True     True     0.169   0.045
+     fashion    2.0      False    True     True     0.399   0.019
+     fashion    1.0      False    True     True     0.405   0.041
+     fashion    0.5      False    True     True     0.382   0.010
+     fashion    0.1      False    True     True     0.387   0.028
+     fashion    0.01     False    True     True     0.383   0.021
+
+  australian    2.0      False    True     False    0.851   0.013
+  australian    1.0      False    True     False    0.855   0.015
+  australian    0.5      False    True     False    0.859   0.007
+  australian    0.1      False    True     False    0.854   0.014
+  australian    0.01     False    True     False    0.841   0.013
+    diabetes    2.0      False    True     False    0.740   0.035
+    diabetes    1.0      False    True     False    0.738   0.026
+    diabetes    0.5      False    True     False    0.734   0.023
+    diabetes    0.1      False    True     False    0.730   0.005
+    diabetes    0.01     False    True     False    0.656   0.037
+      splice    2.0      False    True     False    0.738   0.030
+      splice    1.0      False    True     False    0.747   0.020
+      splice    0.5      False    True     False    0.740   0.027
+      splice    0.1      False    True     False    0.772   0.026
+      splice    0.01     False    True     False    0.770   0.014
+   svmguide3    2.0      False    True     False    0.788   0.013
+   svmguide3    1.0      False    True     False    0.763   0.027
+   svmguide3    0.5      False    True     False    0.726   0.055
+   svmguide3    0.1      False    True     False    0.635   0.046
+   svmguide3    0.01     False    True     False    0.607   0.026
+        iris    2.0      False    True     False    0.860   0.025
+        iris    1.0      False    True     False    0.933   0.021
+        iris    0.5      False    True     False    0.933   0.030
+        iris    0.1      False    True     False    0.880   0.054
+        iris    0.01     False    True     False    0.607   0.199
+breast_cancer    2.0      False    True     False    0.859   0.108
+breast_cancer    1.0      False    True     False    0.870   0.104
+breast_cancer    0.5      False    True     False    0.889   0.102
+breast_cancer    0.1      False    True     False    0.912   0.041
+breast_cancer    0.01     False    True     False    0.914   0.024
+        wine    2.0      False    True     False    0.916   0.040
+        wine    1.0      False    True     False    0.938   0.021
+        wine    0.5      False    True     False    0.944   0.030
+        wine    0.1      False    True     False    0.922   0.040
+        wine    0.01     False    True     False    0.775   0.062
+      digits    2.0      False    True     False    0.919   0.018
+      digits    1.0      False    True     False    0.920   0.013
+      digits    0.5      False    True     False    0.924   0.011
+      digits    0.1      False    True     False    0.922   0.010
+      digits    0.01     False    True     False    0.899   0.017
+       mnist    2.0      False    True     False    0.635   0.031
+       mnist    1.0      False    True     False    0.625   0.041
+       mnist    0.5      False    True     False    0.620   0.022
+       mnist    0.1      False    True     False    0.644   0.030
+       mnist    0.01     False    True     False    0.743   0.007
+       mnist    0.001    False    False    True     0.319   0.129
+     fashion    2.0      False    True     False    0.660   0.048
+     fashion    1.0      False    True     False    0.643   0.042
+     fashion    0.5      False    True     False    0.654   0.024
+     fashion    0.1      False    True     False    0.659   0.037
+     fashion    0.01     False    True     False    0.759   0.008
+       mnist    0.01     False    False    True     0.155   0.065
+      kmnist    0.1      False    False    False    0.574   0.023
